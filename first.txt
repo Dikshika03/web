@@ -1,0 +1,9 @@
+git commands-
+git init
+git status
+git add filename
+git config scope user.name "username"
+git config scope user.email "email"
+git commit -m "message"
+git remote add origin "URL"
+git push -u origin master 
